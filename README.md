@@ -14,8 +14,7 @@ The Project is to know the to the Proportion of the Existing customer and the At
 4. Graduate are the highest number of Customer with 3128 and the highest number of Attrition Customers with 487 While Post-Graduate customers are the lowest number of Attrite Customers and Doctorate are the lowest number of Customer 
 5. The Customers with the Income level of Less than $40K are the higher number of Customer (3561) in the bank with highest attrited Customers of 612
 
-/../C:\Users\ThinkPad\Desktop\DASHBOARD.png
-![This is an image](C:\Users\ThinkPad\Desktop\DASHBOARD)
+![This is an image](https://github.com/OluwaseunPhronesis/BankChurner/blob/main/BankChurner%20Dashboard%203.png)
 
 ## Insight
 * Having the Married Customers as the highest number of attrite customer where female have the larger number by gender, I presumed the Couples relocated to another State and there was Inadequate onboarding procedures in that area close to them.  
